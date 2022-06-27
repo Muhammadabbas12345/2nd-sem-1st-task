@@ -1,0 +1,279 @@
+
+#mainsec{
+   background-image: url(./R\ \(10\).jpg);
+    /* background-repeat: no-repeat; */
+    /* box-shadow: rgba(50, 50, 199, 0.95) 5px -14px 110px -20px, rgba(250, 7, 7, 0.934) 0px 30px 60px -30px, rgba(10, 132, 247, 0.35) 0px -2px 6px 0px inset; */
+
+padding: 5% 25%;
+color: rgb(250, 248, 248);
+/* border: solid yellow 4px; */
+
+}
+#mainsec input{
+font-style: oblique;
+
+}
+#border{
+    border: solid blue 4px;
+    border-radius: 10px;
+    width: 630px;
+    padding: 40px;
+    /* background-color: white; */
+    box-shadow: rgba(50, 50, 199, 0.95) 5px -14px 110px -20px, rgba(250, 7, 7, 0.934) 0px 30px 60px -30px, rgba(10, 132, 247, 0.35) 0px -2px 6px 0px inset;
+}
+#sec1{
+    display: flex;
+}
+.div1{
+    width: 400px;
+    /* box-shadow: rgba(50, 50, 199, 0.95) 5px -14px 110px -20px, rgba(250, 7, 7, 0.934) 0px 30px 60px -30px, rgba(10, 132, 247, 0.35) 0px -2px 6px 0px inset; */
+padding-left: 15px;
+}
+.div2 img{
+    width: 100px;
+    border-radius: 50%;
+    margin-left: 50px;
+    box-shadow: rgba(50, 50, 199, 0.95) 5px -14px 110px -20px, rgba(250, 7, 7, 0.934) 0px 30px 60px -30px, rgba(10, 132, 247, 0.35) 0px -2px 6px 0px inset;
+
+}
+.div3{
+    display: flex;
+}
+.div3 input{
+    width: 200px;
+    height: 20px;
+   /* margin-top: 20px;
+   margin-left: 50px; */
+   border: solid red 2px;
+   background-color: rgb(245, 217, 217);
+   
+   border-radius: 2px;
+}
+
+
+.div3 div{
+   border: solid rgb(236, 229, 229) 2px;
+   border-radius: 4px;
+   
+   margin-top: 20px;
+   margin-left: 50px;
+   padding: 8px;
+
+
+}
+.div4{
+    position: relative;
+    left: 30px;
+}
+
+#sec3{
+    display: flex;
+    margin-top: 40px;
+}
+
+#sec3 input{
+    width: 455px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 65px;
+    border: solid red 2px;
+    background-color: rgb(245, 217, 217);
+   
+    position: relative;
+    right: 55px;
+}
+.div5{
+   border: solid rgb(236, 229, 229) 2px;
+    
+    border-radius: 4px; 
+width: 480px;
+    /* margin-top: 20px; */
+    margin-left: 55px;
+    /* padding: 8px; */
+}
+
+#sec4{
+    display: flex;
+    
+}
+
+#sec4 input{
+    width: 200px;
+    height: 20px;
+    border: solid red 2px;
+   background-color: rgb(245, 217, 217);
+    
+   
+}
+#sec4 div{
+   border: solid rgb(236, 229, 229) 2px;
+    
+    border-radius: 4px;
+    
+    margin-top: 30px;
+    margin-left: 20px;
+    padding: 10px;
+    position: relative;
+    left: 120px;
+
+}
+
+.div6{
+   border: solid rgb(236, 229, 229) 2px;
+    
+    border-radius: 4px; 
+    width: 230px;
+    margin-top: 30px;
+    margin-left: 20px;
+    /* padding: 10px; */
+    position: relative;
+    left: 120px;
+    height: 40px;
+}
+.div6 input{
+    margin: 8px;
+    width: 200px;
+    position: relative;
+    left: 3px;
+    height: 20px;
+    border: solid red 2px;
+    background-color: rgb(245, 217, 217);
+   
+
+}
+
+
+#sec5{
+    display: flex;
+    margin-top: 40px;
+}
+
+#sec5 input{
+    width: 465px;
+    height: 25px;
+    margin-top: 10px;
+    margin-left: 65px;
+    border: solid red 2px;
+    background-color: rgb(245, 217, 217);
+   
+    position: relative;
+    right: 55px;
+}
+.div7{
+   border: solid rgb(236, 229, 229) 2px;
+
+    border-radius: 4px; 
+width: 490px;
+height: 50px;
+
+    /* margin-top: 20px; */
+    margin-left: 65px;
+    /* padding: 8px; */
+}
+
+
+#sec6{
+    display: flex;
+    margin-top: 40px;
+}
+
+.div8{
+   border: solid rgb(236, 229, 229) 2px;
+    
+    border-radius: 4px; 
+width: 180px;
+height: 50px;
+margin-left: 45px;
+
+}
+
+.div8 input{
+width: 150px;
+height: 25px;
+margin-top: 10px;
+margin-left: 50px;
+border: solid red 2px;
+background-color: rgb(245, 217, 217);
+
+position: relative;
+right: 38px;
+
+}
+
+.div9{
+    border: solid rgb(236, 229, 229) 2px;
+   
+    border-radius: 4px; 
+margin-left: 20px;
+height: 50px;
+padding: 0% 7px;
+width: 280px;
+
+
+}
+
+.div9 input{
+    height: 25px;
+    margin-top: 10px;
+    position: relative;
+    /* left: 40px; */
+    width: 260px;
+    border: solid red 2px;
+   background-color: rgb(245, 217, 217);
+    
+    
+}
+
+
+
+#sec7{
+    display: flex;
+    margin-top: 40px;
+}
+
+.div10{
+    border: solid rgb(236, 229, 229) 2px;
+   
+    border-radius: 4px; 
+width: 180px;
+height: 50px;
+margin-left: 45px;
+
+}
+
+.div10 input{
+width: 150px;
+height: 25px;
+margin-top: 10px;
+margin-left: 50px;
+border: solid red 2px;
+background-color: rgb(245, 217, 217);
+
+position: relative;
+right: 38px;
+
+}
+
+.div11{
+    border: solid rgb(236, 229, 229) 2px;
+  
+    border-radius: 4px; 
+margin-left: 20px;
+height: 50px;
+padding: 0% 7px;
+width: 280px;
+
+
+}
+
+.div11 input{
+    height: 25px;
+    margin-top: 10px;
+    position: relative;
+    /* left: 40px; */
+    width: 260px;
+    border: solid red 2px;
+    background-color: rgb(245, 217, 217);
+
+    
+}
